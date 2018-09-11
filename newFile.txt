@@ -1,0 +1,22 @@
+Git Set Up
+
+Creating files pushing and merging to master.
+
+1. Download and install git.
+
+2.Signup on GitHub.
+
+3.Adding  a file/folder to git.
+
+4.Track and commit changes.
+
+5.Add the repository on GitHub.
+
+	git add 'file name to add into git after changes or creates as new file'
+	git status ##check changes on files with this command
+	git commit -m "commit message here"  #allow the commit of the recent changes.
+	
+
+
+Git log # let check all changes on this session.
+Git --help  #Shows all the available commands
