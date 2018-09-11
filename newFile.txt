@@ -15,7 +15,9 @@ Creating files pushing and merging to master.
 	git add 'file name to add into git after changes or creates as new file'
 	git status ##check changes on files with this command
 	git commit -m "commit message here"  #allow the commit of the recent changes.
-	
+	git push -u origin master # this made the push into my repo in Github. First time you should connect in the terminal your repo as origin using the http address of your repo
+	##connect with the following command.
+	git remote add origin https://github.com/username/reponame.git
 
 
 Git log # let check all changes on this session.
